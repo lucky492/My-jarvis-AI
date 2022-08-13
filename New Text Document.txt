@@ -1,0 +1,1 @@
+pyuic5 -x jarvisUI.ui -o jarvisUI.py
